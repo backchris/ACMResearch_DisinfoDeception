@@ -1,7 +1,7 @@
 # ACMResearch_DisinfoDeception
 Leading 4 undergraduates through a semester-long ML research project on security applications of scaled disinformation distribution on Twitter
 
-Project plan can also be found here:
+Full project plan can be found here:
 https://docs.google.com/document/d/1PrVKPqJqnmbhMPXLQA3_EGEC46qQAEQWb3ejo9TvvRo/edit#heading=h.2bgw0c9hhw0q
 
 ## Disinfo_Deception
